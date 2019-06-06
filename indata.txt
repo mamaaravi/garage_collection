@@ -1,0 +1,5 @@
+C Ford 5000 4
+T Audi 3000 6 Taxify 4
+C Tesla 40000 1
+C Mercedes 1000 10
+T Mazda 3000 5 Uber 3
